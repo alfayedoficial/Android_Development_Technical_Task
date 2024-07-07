@@ -1,0 +1,8 @@
+package com.alfayedOficial.coreNetwork.utilities
+
+object NetworkConstants {
+
+    const val ACCESS_TOKEN = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1ZGU0NjliNDMzYjJkNmJhNTc5N2Y1OWM0ZjM0N2Y1MyIsIm5iZiI6MTcyMDI2NzQzOC4zMjY0MzcsInN1YiI6IjY1MDQxNDkzNmEyMjI3MDBmZDIyMWVhZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.zQ3v2nYkmRF9PB6KIII3oWAY2JAIWjq53fA6W1ubb3Q"
+    const val REQUEST_TIME = 3L
+
+}
